@@ -1,0 +1,84 @@
+.a{
+	background-color: black;
+}
+.a1{
+	top: 1%;
+	left: 0%;
+	position: absolute;
+	width: 100%;
+	height: 15%;
+	background-color: red;
+ 
+}
+.i{
+	position: absolute;
+	top: 70%;
+	left: 86%;
+	width: 12%;
+	height: 25%;
+}
+.i1{
+	position: absolute;
+	top: 8%;
+	left: -40%;
+	width: 28%;
+	height: 195%;
+}
+.a2{
+	font-family: fuente1;
+    font-size: 65px;
+    position: absolute;
+    left: 25%;
+    top: 28%;
+    color: white;
+}
+
+
+.b1{
+	position: absolute;
+	width: 60%;
+	height: 75%;
+	top: 20%;
+	left: 20%;
+}
+.b2{
+	position: absolute;
+	width: 10%;
+	height: 5%;
+	top: 94%;
+	left: 30%;
+	background-color: #191970;
+	color: white;
+}
+.b3{
+	position: absolute;
+	width: 10%;
+	height: 5%;
+	top:94%;
+	left: 60%;
+	background-color: #191970;
+	color: white;
+}
+.b4{
+	position: absolute;
+	width: 15%;
+	height: 5%;
+	top:94%;
+	left: 42%;
+	
+}
+@font-face
+{
+font-family: fuente;
+src: url(fuente2.ttf);
+}
+@font-face
+{
+font-family: fuente1;
+src: url(Vogue.ttf);
+}
+@font-face
+{
+font-family: fuente2;
+src: url(oro3.ttf);
+}
